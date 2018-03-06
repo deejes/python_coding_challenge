@@ -1,0 +1,10 @@
+[
+  { "url": "http://cnn.com", "interval": 10},
+  { "url": "http://google.ca", "interval": 5},
+  { "url": "http://facebook.com", "interval": 5},
+  { "url": "http://httpbin.org/delay/20", "interval": 150},
+  { "url": "https://www.nytimes.com/", "interval": 180},
+  { "url": "https://abc.com/", "interval": 300},
+  { "url": "https://wrongurl.xyz", "interval": 100},
+  { "url": "http://www.ycombinator.com/", "interval": 250}
+]
